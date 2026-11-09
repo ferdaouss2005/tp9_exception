@@ -37,6 +37,10 @@ J'ai simplifié la gestion des fichiers avec `try-with-resources`. Cette méthod
 J'ai créé une exception personnalisée appelée `InvalidUserException`. Je l'ai utilisée pour vérifier les informations d'un utilisateur, notamment son nom et son âge.
 
 ## Exercice 6 – Journalisation des erreurs
+
+<img width="424" height="115" alt="image" src="https://github.com/user-attachments/assets/c67f4e38-1915-4e10-bcc7-0f405e8e545e" />
+
+
 J'ai créé une classe `LoggerUtil` pour enregistrer les erreurs dans un fichier `error.log`. J'ai utilisé `BufferedWriter` pour écrire les messages avec leur date et leur heure.
 
 ## Conclusion
