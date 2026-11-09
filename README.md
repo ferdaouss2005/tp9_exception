@@ -23,6 +23,10 @@ J'ai créé une classe qui permet de lire un fichier texte avec `FileReader` et 
 J'ai amélioré la lecture des fichiers en utilisant `try`, `catch` et `finally`. J'ai utilisé le bloc `finally` pour garantir la fermeture du fichier même en cas d'erreur.
 
 ## Exercice 4 – Try-With-Resources
+
+<img width="404" height="138" alt="image" src="https://github.com/user-attachments/assets/ea23f3b0-d50d-49c4-af86-8c140682cb98" />
+
+
 J'ai simplifié la gestion des fichiers avec `try-with-resources`. Cette méthode permet de fermer automatiquement les ressources après leur utilisation.
 
 ## Exercice 5 – Exceptions personnalisées
