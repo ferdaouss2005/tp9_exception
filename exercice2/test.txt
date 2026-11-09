@@ -1,0 +1,4 @@
+Bonjour !
+Bienvenue dans le TP9.
+Nous apprenons la gestion des exceptions en Java.
+La lecture des fichiers utilise BufferedReader.
