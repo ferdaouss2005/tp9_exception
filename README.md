@@ -16,6 +16,10 @@ J'ai créé une calculatrice qui permet d'effectuer des additions et des divisio
 J'ai créé une classe qui permet de lire un fichier texte avec `FileReader` et `BufferedReader`. J'ai utilisé `throws IOException` pour propager les erreurs à la méthode appelante.
 
 ## Exercice 3 – Gestion des ressources avec Finally
+
+<img width="401" height="224" alt="image" src="https://github.com/user-attachments/assets/98cdddc9-499f-4f1d-a423-78b0965d3b95" />
+
+
 J'ai amélioré la lecture des fichiers en utilisant `try`, `catch` et `finally`. J'ai utilisé le bloc `finally` pour garantir la fermeture du fichier même en cas d'erreur.
 
 ## Exercice 4 – Try-With-Resources
