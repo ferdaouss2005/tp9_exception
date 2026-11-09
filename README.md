@@ -30,6 +30,10 @@ J'ai amélioré la lecture des fichiers en utilisant `try`, `catch` et `finally`
 J'ai simplifié la gestion des fichiers avec `try-with-resources`. Cette méthode permet de fermer automatiquement les ressources après leur utilisation.
 
 ## Exercice 5 – Exceptions personnalisées
+
+<img width="409" height="141" alt="image" src="https://github.com/user-attachments/assets/c3163212-b239-483d-b7cf-5b4da359b9cc" />
+
+
 J'ai créé une exception personnalisée appelée `InvalidUserException`. Je l'ai utilisée pour vérifier les informations d'un utilisateur, notamment son nom et son âge.
 
 ## Exercice 6 – Journalisation des erreurs
